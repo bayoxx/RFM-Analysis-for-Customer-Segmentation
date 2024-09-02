@@ -60,5 +60,5 @@ This project demonstrated the power of RFM analysis in understanding customer be
 
 This is the link to my [spreadsheet](https://docs.google.com/spreadsheets/d/1mNcXYXKZWFSwf5dKu3y57ZeLaViLOd9y6hWdJlKglYA/edit?usp=sharing) and my Tableau dashboard is [here](https://public.tableau.com/views/CLVandcustomersegmentation/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
-Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/Funnel-Analysis-for-Ecommerce/blob/main/Funnel%20Analysis.sql) and the presentation slides [here]() .
+Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/RFM-Analysis-for-Customer-Segmentation/blob/main/CLV%20and%20customer%20segmentation.sql) and the presentation slides [here](https://github.com/bayoxx/RFM-Analysis-for-Customer-Segmentation/blob/main/RFM%20SEGMENTATION.pdf) .
 
